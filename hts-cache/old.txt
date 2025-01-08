@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+01:23:08	912/912	---M--	200	added ('OK')	application/json	etag:W/%22390-oJ264U6IhFgrOEXlhxwUE3+KJGw%22	https://vajira-api.vercel.app/news/siyatha	/storage/emulated/0/HTTrack/Websites/Vajira/vajira-api.vercel.app/news/siyatha.json	(from )
+01:23:09	149/149	---M--	404	error ('Not%20Found')	text/html	date:Sat,%2030%20Nov%202024%2019:53:08%20GMT	https://vajira-api.vercel.app/robots.txt		(from )
